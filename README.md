@@ -1,6 +1,4 @@
 ## "I"
 
 - Name's Inferno,
-- <3 Simulations|3D Motion designs,
-- Mechanical Engineering, by side passion,
-- Working on my personal film "INFERNO".
+"Mechanical Engineering · 3D/VFX · Building UTOPIA and working toward the film Inferno"
